@@ -1,0 +1,977 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shofy.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shofy.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\fonts\\Jost-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\fonts\\Jost-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Jost-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\fonts\\Oregano-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Oregano-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\fonts\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\fonts\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\add-to-cart.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\add-to-cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\add-to-wishlist.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\add-to-wishlist.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\bars-icon (2).svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\bars-icon (2).svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\bars-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\bars-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\cart-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\cart-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\category-line.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\category-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\check.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\chevron-left.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\chevron-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\chevron-right.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\chevron-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\chevron-up.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\chevron-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\compare-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\compare-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\compare.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\compare.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\cross-out.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\cross-out.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\email.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\email.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\feature-currence.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\feature-currence.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\feature-disc.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\feature-disc.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\feature-support.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\feature-support.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\feature-truck.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\feature-truck.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\home.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\home.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\location.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\location.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\login-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\login-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\magnfying.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\magnfying.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\minus.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\minus.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\offer-line-red.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\offer-line-red.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\offer-line.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\offer-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\phone-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\phone-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\plus.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\product-details.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\product-details.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\product-line.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\product-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\search-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\search-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\shop-grid-1.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\shop-grid-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\shop-grid-2.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\shop-grid-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\shop-now.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\shop-now.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\truck.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\truck.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\wishlist-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\wishlist-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\icons\\xmark.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\xmark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\acces-category.png",
+      "PackagePath": "staticwebassets\\assets\\images\\acces-category.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\apple.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\banner-blog.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\blog-big-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-big-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\blog-big-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-big-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\blog-big-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-big-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\blog-grid-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-grid-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\blog-grid-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-grid-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\blog-grid-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-grid-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\blutooth-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blutooth-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\brand-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\brand-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\brand-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\brand-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\brand-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\brand-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\brand-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\brand-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\check.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\contact-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\contact-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\contact-icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\cpu-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cpu-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\cpu-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cpu-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\cpu-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cpu-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\cpu-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cpu-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\empty-cart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\empty-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\footer-pay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-pay.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\gadget-banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gadget-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\gadget-girl.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gadget-girl.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\garmin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\garmin.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\google.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\headphone-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\headphone-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\headphone-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\headphone-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\headphone-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\headphone-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\headphone-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\headphone-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\headphone-blue.png",
+      "PackagePath": "staticwebassets\\assets\\images\\headphone-blue.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\headphone-category.png",
+      "PackagePath": "staticwebassets\\assets\\images\\headphone-category.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\headphone-jbl.png",
+      "PackagePath": "staticwebassets\\assets\\images\\headphone-jbl.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id11-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id11-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id11-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id11-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id12-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id12-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id12-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id12-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id13-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id13-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id13-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id13-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id2-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id2-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id3-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id3-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id3-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id3-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id4-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id4-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id4-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id4-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id4-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id4-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id5-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id5-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id5-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id5-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id5-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id5-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id8-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id8-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id8-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id8-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id9-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id9-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\id9-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\id9-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\ipad-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ipad-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\ipad-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ipad-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\ipad-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ipad-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\lenovo-wire.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lenovo-wire.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\login-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\login-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\login-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\login-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\login-shape-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\login-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\login-shape-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\login-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\mobile-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mobile-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\mobile-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mobile-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\mobile-category.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mobile-category.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\pc-category.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pc-category.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\plane.png",
+      "PackagePath": "staticwebassets\\assets\\images\\plane.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\product-banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\product-banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\signature.png",
+      "PackagePath": "staticwebassets\\assets\\images\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\slider-img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\slider-img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\slider-img-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\slider-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\slider-shape-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\slider-shape-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\sony.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sony.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\subscribe-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\subscribe-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\subscribe-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\subscribe-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\subscribe-shape-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\subscribe-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\subscribe-shape-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\subscribe-shape-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\subscribe-shape.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\subscribe-shape.svg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\tablet-slider-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tablet-slider-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\tablet-slider-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tablet-slider-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\tablet-slider-offer.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tablet-slider-offer.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\user-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\user-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\user-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\watch-9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\watch-9.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\images\\watch-category.png",
+      "PackagePath": "staticwebassets\\assets\\images\\watch-category.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\js\\cart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\js\\home.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\js\\product-detail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\product-detail.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\js\\shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\shop.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\js\\wishlist.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wishlist.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\blog\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\blog\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\blog\\blog.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\blog\\blog.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\blog\\blog.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\blog\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\cart\\cart.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\cart\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\cart\\cart.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\cart\\cart.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\cart\\cart.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\cart\\cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\contact\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\contact\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\contact\\contact.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\contact\\contact.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\contact\\contact.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\contact\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\home\\home.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\home\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\home\\home.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\home\\home.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\home\\home.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\home\\home.scss"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\login\\login.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\login\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\login\\login.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\login\\login.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\login\\login.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\login\\login.scss"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\product-detail\\product-detail.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\product-detail\\product-detail.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\product-detail\\product-detail.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\product-detail\\product-detail.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\product-detail\\product-detail.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\product-detail\\product-detail.scss"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\register\\register.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\register\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\register\\register.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\register\\register.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\register\\register.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\register\\register.scss"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\shop\\shop.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\shop\\shop.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\shop\\shop.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\shop\\shop.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\shop\\shop.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\shop\\shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\wishlist\\wishlist.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\wishlist\\wishlist.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\wishlist\\wishlist.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\wishlist\\wishlist.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\assets\\sass\\pages\\wishlist\\wishlist.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\wishlist\\wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Shofy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Shofy.props",
+      "PackagePath": "build\\Shofy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Shofy.props",
+      "PackagePath": "buildMultiTargeting\\Shofy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Shofy.props",
+      "PackagePath": "buildTransitive\\Shofy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

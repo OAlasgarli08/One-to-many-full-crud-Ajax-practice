@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omar\\Desktop\\Shofy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|c:\\users\\omar\\desktop\\shofy\\shofy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|solutionrelative:shofy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|c:\\users\\omar\\desktop\\shofy\\shofy\\datas\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|solutionrelative:shofy\\datas\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|c:\\users\\omar\\desktop\\shofy\\shofy\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|solutionrelative:shofy\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|c:\\users\\omar\\desktop\\shofy\\shofy\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|solutionrelative:shofy\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|c:\\users\\omar\\desktop\\shofy\\shofy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|solutionrelative:shofy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|c:\\users\\omar\\desktop\\shofy\\shofy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|solutionrelative:shofy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|c:\\users\\omar\\desktop\\shofy\\shofy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47419FAA-31AA-4C70-B3EB-670B58A140ED}|Shofy\\Shofy.csproj|solutionrelative:shofy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Program.cs",
+              "RelativeDocumentMoniker": "Shofy\\Program.cs",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Program.cs",
+              "RelativeToolTip": "Shofy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:52:31.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Shofy\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Shofy\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:28:13.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Shofy\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Models\\Slider.cs",
+              "RelativeToolTip": "Shofy\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:02:03.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Datas\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Shofy\\Datas\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Datas\\AppDbContext.cs",
+              "RelativeToolTip": "Shofy\\Datas\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:21:12.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shofy\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shofy\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAE4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T09:05:02.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Shofy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Shofy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T08:56:28.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Shofy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Shofy\\Shofy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Shofy\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:55:50.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
